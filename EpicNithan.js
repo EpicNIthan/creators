@@ -21,7 +21,7 @@ const epicNithan = {
   totalPaid: 0,
   invitedBy: "Jonh",
   commission: 0,
-  balanceplus: 0,
+  balanceplus: 10,
   videos: [
     "+100%https://youtube.com/shorts/wZeKy4HPM0g?feature=share",
     "+100%https://youtube.com/shorts/tfvl_BiesEo?feature=share",
