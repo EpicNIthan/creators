@@ -1,5 +1,5 @@
 // ===== Player: Itz.nooh =====
-const itzNooh = {
+window.itzNooh = {
   name: "Itz.nooh",
   totalPaid: 0.001,
   invitedBy: "Epic_Nithan",
@@ -16,7 +16,7 @@ const itzNooh = {
 };
 
 // ===== Player: Epic_Nithan =====
-const epicNithan = {
+window.epicNithan = {
   name: "Epic_Nithan",
   totalPaid: 0,
   invitedBy: "Jonh",
@@ -37,7 +37,7 @@ const epicNithan = {
 };
 
 // ===== Player: Jonh =====
-const jonh = {
+window.jonh = {
   name: "Jonh",
   totalPaid: 0,
   invitedBy: null,
